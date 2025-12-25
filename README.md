@@ -176,6 +176,6 @@ Contributions are welcome! Feel free to:
 
 ---
 
-**Live Demo**: ada-hl4425.github.io/coin-simulator/
+**Live Demo**: [ada-hl4425.github.io/coin-simulator/]
 
 **Questions or feedback?** Open an issue on GitHub!
